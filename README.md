@@ -56,6 +56,7 @@
 ## 🚀 Project Experience
 
 ### 🔹 공공데이터 기반 운동 시설 예약 플랫폼
+[BC_PROJECT](https://github.com/MUNJI-KANG/BC_Project)
 - 팀장 역할 수행
 - 데이터 수집 → API 분석 → 백엔드 설계 → 프론트 구현
 - Ajax 기반 비동기 처리
