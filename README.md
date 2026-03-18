@@ -47,6 +47,7 @@ AI 개발로 관심을 확장했습니다.
 
 ### Frontend
 - React
+- HTML
 
 ### Database
 - MySQL
