@@ -42,7 +42,11 @@ AI 개발로 관심을 확장했습니다.
 
 ### Backend
 - Django
+- FastAPI
 - REST API
+
+### Frontend
+- React
 
 ### Database
 - MySQL
@@ -51,7 +55,6 @@ AI 개발로 관심을 확장했습니다.
 
 ### Infra
 - AWS (EC2)
-
 ---
 
 ## 🚀 Selected Projects
