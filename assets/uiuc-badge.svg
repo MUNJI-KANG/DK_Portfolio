@@ -1,0 +1,8 @@
+<svg width="340" height="72" viewBox="0 0 340 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="340" height="72" rx="16" fill="#13294B"/>
+  <rect x="14" y="14" width="44" height="44" rx="12" fill="#FF5F05"/>
+  <path d="M31 22H41V50H31V22Z" fill="white"/>
+  <path d="M24 22H48V30H24V22Z" fill="white"/>
+  <text x="72" y="31" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">UNIVERSITY OF ILLINOIS</text>
+  <text x="72" y="50" fill="#C8D6E5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">UIUC Psychology</text>
+</svg>

@@ -2,6 +2,10 @@
 
 > 데이터 구조부터 서비스 흐름까지 설계하고, AI를 실제 제품으로 연결하는 Developer
 
+<p align="left">
+  <img src="./image/uiuc_logo.jpg" alt="UIUC logo" width="360" />
+</p>
+
 AI 모델 구현에 그치지 않고, 데이터 수집·전처리·학습·평가·서비스 연동까지  
 전 과정을 설계하며 운영 가능한 시스템으로 구현합니다.
 
@@ -33,6 +37,10 @@ AI 개발로 관심을 확장했습니다.
 
 ### 🔹 할래말래 | 공공체육센터 예약 & 운동 메이트 플랫폼
 
+<p align="left">
+  <img src="./image/best_logo.png" alt="할래말래 로고" width="260" />
+</p>
+
 공공데이터를 재구성해 예약 기능과 커뮤니티 기능을 통합한 웹 서비스
 
 - 팀장
@@ -44,6 +52,10 @@ AI 개발로 관심을 확장했습니다.
 👉 Repository: https://github.com/MUNJI-KANG/Best_Choice_Project
 
 ### 🔹 JINRO IS | AI 기반 진로 상담 플랫폼
+
+<p align="left">
+  <img src="./image/jinro_logo.png" alt="JINRO IS 로고" width="260" />
+</p>
 
 학생의 집중도, 흥미도, 설문 응답, 상담 대화를 분석해  
 상담사가 빠르게 판단할 수 있는 진로 리포트를 생성하는 AI 보조형 상담 서비스
@@ -85,9 +97,6 @@ AI 개발로 관심을 확장했습니다.
 
 ### Infra
 - AWS (EC2)
----
-
-
 
 ---
 
