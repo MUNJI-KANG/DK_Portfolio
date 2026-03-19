@@ -1,10 +1,11 @@
 # 강대광 | AI Developer
+<p align="left">
+  <img src="./image/uiuc_logo.jpg" alt="UIUC logo" width="240" />
+</p>
+
 
 > 데이터 구조부터 서비스 흐름까지 설계하고, AI를 실제 제품으로 연결하는 Developer
 
-<p align="left">
-  <img src="./image/uiuc_logo.jpg" alt="UIUC logo" width="360" />
-</p>
 
 AI 모델 구현에 그치지 않고, 데이터 수집·전처리·학습·평가·서비스 연동까지  
 전 과정을 설계하며 운영 가능한 시스템으로 구현합니다.
