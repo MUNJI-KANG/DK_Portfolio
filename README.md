@@ -1,8 +1,4 @@
 # 강대광 | AI Developer
-<p align="left">
-  <img src="./image/uiuc_logo.jpg" alt="UIUC logo" width="240" />
-</p>
-
 
 > 데이터 구조부터 서비스 흐름까지 설계하고, AI를 실제 제품으로 연결하는 Developer
 
@@ -22,6 +18,14 @@ AI 모델 구현에 그치지 않고, 데이터 수집·전처리·학습·평�
 ---
 
 ## 👋 About Me
+<p align="left">
+  <img src="./image/uiuc_logo.jpg" alt="UIUC logo" width="240" />
+</p>
+<p align="left">
+  <img src="./image/korea_it.jpg" alt="KOREAIT logo" width="240" />
+</p>
+
+
 
 UIUC에서 심리학을 전공하며 사람의 행동과 의사결정을 분석하는 관점을 배웠습니다.  
 이 경험은 데이터를 구조적으로 이해하는 기반이 되었습니다.
