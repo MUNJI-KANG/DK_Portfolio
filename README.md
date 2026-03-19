@@ -68,6 +68,21 @@ AI 개발로 관심을 확장했습니다.
 
 👉 Repository: https://github.com/MUNJI-KANG/Best_Choice_Project
 
+### 🔹 JINRO IS | AI 기반 진로 상담 플랫폼
+
+학생의 집중도, 흥미도, 설문 응답, 상담 대화를 분석해  
+상담사가 빠르게 판단할 수 있는 진로 리포트를 생성하는 AI 보조형 상담 서비스
+
+- 팀장
+- 집중도 분석 모델 개발 및 고도화
+- React 기반 온보딩 플로우 설계 및 사용자 경험 개선
+- FastAPI 기반 AI 서버 연동 및 비동기 분석 처리
+- 시선 데이터, STT, LLM 요약을 결합한 리포트 자동화
+
+👉 Repository: https://github.com/MUNJI-KANG/Jinro_Proj_Portfolio
+
+---
+
 ---
 
 ## 🎯 Direction
