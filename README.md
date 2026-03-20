@@ -77,31 +77,30 @@ AI 개발로 관심을 확장했습니다.
 
 ## 🛠 Tech Stack
 
-### AI / ML
-- Scikit-learn
-- TensorFlow / Keras
-
-### LLM / NLP
-- RAG
-- HuggingFace
-- LangChain / LangGraph
-
 ### Backend
-- Django
-- FastAPI
-- REST API
-
-### Frontend
-- React
-- HTML
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **3.10+**
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Database
-- MySQL
-- MongoDB
-- Oracle / Tibero
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Infra
-- AWS (EC2)
+### Frontend
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **19**
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### AI/ML
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A1F1?style=flat-square&logo=google&logoColor=white)
+- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Deployment
+- ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Collaboration
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
